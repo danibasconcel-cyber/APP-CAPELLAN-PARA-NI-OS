@@ -1,0 +1,7 @@
+{
+  "name": "Copy DE APP CONSEJERO CAPELLAN PARA NIÑOS",
+  "description": "An interactive AI chaplain that uses Gemini's real-time audio capabilities to provide biblical advice and tell stories to children in a friendly, conversational way.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
